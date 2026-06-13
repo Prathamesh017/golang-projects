@@ -1,0 +1,1 @@
+Handlers and Services we are separting based on HTTP Logic , and all the business logic we will move to service , If tommorow our API from rest api goes to some other api type like graphql/grpc , our service functions would stay the same

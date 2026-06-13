@@ -1,0 +1,7 @@
+FROM postgres:17
+
+ENV POSTGRES_USER=postgres
+ENV POSTGRES_PASSWORD=postgres
+ENV POSTGRES_DB=restaurant_db
+
+EXPOSE 5432
